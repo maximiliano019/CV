@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 5px;
+}
+
+.tamIcono {
+    width: 20px;
+    height: auto;    
+}
+
+#ExperienciaLaboral, #Formacion, #Cursos, #Habilidades
+{
+    visibility: hidden;
+}
